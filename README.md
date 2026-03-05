@@ -78,8 +78,7 @@ It provides secure authentication using Firebase and allows users to manage thei
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/arslan15108/TaskManger.git
-cd task-flow
+git clone https://github.com/Muhammad-Arsl/Task-Manager.git
 ```
 
 ### 2️⃣ Install Dependencies
